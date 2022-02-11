@@ -1,0 +1,11 @@
+{
+  "name": "nftfi-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "op30132 <op30132@gmail.com> (https://op30132.github.io/)",
+  "license": "ISC"
+}
